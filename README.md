@@ -43,10 +43,8 @@ Lighthouse.
 
 Luego de ver las mejoras aplicadas analizaremos todo en local utilizando el archivo contenido en `simple-page`
 
-### Critical Render Path
+### Critical Render Path (CRP)
 
 https://www.youtube.com/watch?v=FnhieCCfhlA
 
 https://javascript.info/script-async-defer
-
-- CRP
